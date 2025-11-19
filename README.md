@@ -1,5 +1,5 @@
 ```console
-$ curl -s https://raw.githubusercontent.com/anisvsc/anisvsc/master/hello.sh | sh
+$ curl -s https://raw.githubusercontent.com/anishfn/anishfn/master/hello.sh | sh
 
  _____     _     _   
 |  _  |___|_|___| |_ 
@@ -14,35 +14,16 @@ $ ls anishfn
 │
 ├── Languages
 │   ├── HTML        CSS         TypeScript      NodeJS
-│   └── PHP         C           C++             Python
+│   └── PHP         Rust           C++          Python
 │
 ├── Frameworks
-│   ├── Bootstrap   React       TailwindCSS     Symfony
-│   └── Vue         
+│   ├── Bootstrap   React       TailwindCSS     Astro
 │
 ├── Tools
 │   ├── VSCode      WebStorm    PyCharm         Docker
 │   ├── Git         GitHub      Vercel          Railway
-│   ├── Sketch      Figma       Discord         Visual Studio
-│   └── Xcode       
-│
-└── Databases
-    └── MySQL       SQLite      MongoDB         Redis
-
-    $ ls anisvsc
-├── README.md
-│
-├── Languages
-│   ├── HTML        CSS         TypeScript      NodeJS
-│   └── C           C++         Python
-│
-├── Frameworks
-│   └── NextJs      React       TailwindCSS     Vite
-│
-├── Tools
-│   ├── VSCode      Cursor      Httpie          Docker
-│   ├── Git         GitHub      Vercel          Postman
-│   └── TLDraw      Figma       Discord
+│   ├── Sketch      Figma       Discord         Postman
+│   └── Cursor      Httpie      Zed             Excalidraw
 │
 └── Databases
     └── MySQL       SQLite      MongoDB         Redis
